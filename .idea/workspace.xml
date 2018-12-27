@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e566ed3-0397-4f1a-a8b8-352edf302ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/avator-0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avator-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/avator-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/header-back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-1s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-1ss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-2ss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-3ss.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lighthouse-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lunch-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lunch-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample-2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +15,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sample-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
+            <state relative-caret-position="423">
               <caret line="150" column="14" lean-forward="true" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -275,7 +250,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sample-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
+        <state relative-caret-position="423">
           <caret line="150" column="14" lean-forward="true" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
